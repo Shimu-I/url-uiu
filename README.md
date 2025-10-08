@@ -58,7 +58,7 @@ Serial no.| Formal Code | Course Title |
 | Description | Link |
 |--------------|------|
 | 📂 Drive Link | [Add link here](#) |
-| 🎥 YouTube Link | [Add link here](#) |
+| 🎥 YouTube Link (full playlist by Farhanaz Farheen) | [link](https://youtube.com/playlist?list=PL3_ATDyQLqPi8dfAhsyq2KQxcPECqHeRg&si=n_6fDj29bnHhBRud) |
 | 📄 Question Bank | [Add link here](#) |
 | 💡 Project Reference | [Advanced LMS Project](#) |
 

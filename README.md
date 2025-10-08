@@ -6,7 +6,9 @@ A curated list of helpful links for United International University (UIU) course
 
 ## 📚 Course Materials
 - **Hashnode Series** – Notes and write-ups for various UIU courses.  
-  [sayeemzzzaman.hashnode.dev/series/uiu-courses](https://sayeemzzzaman.hashnode.dev/series/uiu-courses)
+  [sayeemzzzaman](https://sayeemzzzaman.hashnode.dev/series/uiu-courses)
+  
+  [Noman's UIU](https://nomansuiu.hashnode.dev/series/uiu-courses)
 
 ## ❓ Question Bank
 - **UIU QB** – Community-maintained question bank for practice and exam prep.  
@@ -29,19 +31,19 @@ A curated list of helpful links for United International University (UIU) course
 
 ## 🧾 Table of Contents
 
-| Formal Code | Course Title |
-|--------------|--------------|
-| CSE 2233 | [Theory of Computation](#theory-of-computation) |
-| CSE 3411 | [System Analysis and Design](#system-analysis-and-design) |
-| CSE 3412 | [System Analysis and Design Laboratory](#system-analysis-and-design-laboratory) |
-| CSE 4325 | [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers) |
-| CSE 4326 | [Microprocessors and Microcontrollers Laboratory](#microprocessors-and-microcontrollers-laboratory) |
-| CSE 4509 | [Operating Systems](#operating-systems) |
-| CSE 4510 | [Operating Systems Laboratory](#operating-systems-laboratory) |
+Serial no.| Formal Code | Course Title |
+----------|--------------|--------------|
+01        | CSE 2233 | [Theory of Computation](#theory-of-computation) |
+02        | CSE 3411 | [System Analysis and Design](#system-analysis-and-design) |
+03        | CSE 3412 | [System Analysis and Design Laboratory](#system-analysis-and-design-laboratory) |
+04        | CSE 4325 | [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers) |
+05        | CSE 4326 | [Microprocessors and Microcontrollers Laboratory](#microprocessors-and-microcontrollers-laboratory) |
+06        | CSE 4509 | [Operating Systems](#operating-systems) |
+07        | CSE 4510 | [Operating Systems Laboratory](#operating-systems-laboratory) |
 
 ---
 
-## 🧠 Theory of Computation (CSE 2233)
+## 1 Theory of Computation (CSE 2233) -- toc
 
 | Description | Link |
 |--------------|------|
@@ -51,7 +53,7 @@ A curated list of helpful links for United International University (UIU) course
 
 ---
 
-## 🧩 System Analysis and Design (CSE 3411)
+## 2 System Analysis and Design (CSE 3411) -- sad theory
 
 | Description | Link |
 |--------------|------|
@@ -62,7 +64,7 @@ A curated list of helpful links for United International University (UIU) course
 
 ---
 
-## 🧪 System Analysis and Design Laboratory (CSE 3412)
+## 3 System Analysis and Design Laboratory (CSE 3412) -- sad lab
 
 | Description | Link |
 |--------------|------|
@@ -73,17 +75,17 @@ A curated list of helpful links for United International University (UIU) course
 
 ---
 
-## ⚙️ Microprocessors and Microcontrollers (CSE 4325)
+## 4 Microprocessors and Microcontrollers (CSE 4325) -- micro theory
 
 | Description | Link |
 |--------------|------|
-| 📂 Drive Link — Online Counselling Session (MID & Final Topics) | [Google Drive Folder](https://drive.google.com/drive/folders/1_sRoGai9pcWpYuriLnCrSK6s76Bey3uL) |
+| 📂 Rakin Sir's Drive Link — Online Counselling Session (MID & Final Topics) | [link](https://drive.google.com/drive/folders/1_sRoGai9pcWpYuriLnCrSK6s76Bey3uL) |
 | 🎥 YouTube Link | [Add link here](#) |
 | 📄 Question Bank | [Add link here](#) |
 
 ---
 
-## 🔬 Microprocessors and Microcontrollers Laboratory (CSE 4326)
+## 5 Microprocessors and Microcontrollers Laboratory (CSE 4326) -- micro lab
 
 | Description | Link |
 |--------------|------|
@@ -94,21 +96,21 @@ A curated list of helpful links for United International University (UIU) course
 
 ---
 
-## 💻 Operating Systems (CSE 4509)
+## 6 Operating Systems (CSE 4509) -- os theory
 
-| Description | Link |
-|--------------|------|
-| 📂 Drive Link | [Add link here](#) |
+| Description | Link |   |   |
+|--------------|------|--|---|
+| 📂 Anik Sir's Drive | [link](https://drive.google.com/drive/folders/106Vjh9w2wcJ8Wdo75fhfUzjrVGGJ5R2C) | [MID](https://drive.google.com/drive/folders/1zbM_MP0HIBKn7K6XwKux1kwbOnP9mgZy) | [FINAL](https://drive.google.com/drive/folders/1iDsSdWuriNC6ZLBv0OlZ1YUEyeG_MaGg)
 | 🎥 YouTube Link | [Add link here](#) |
 | 📄 Question Bank | [Add link here](#) |
 
 ---
 
-## 🧫 Operating Systems Laboratory (CSE 4510)
+## 7 Operating Systems Laboratory (CSE 4510) -- os lab
 
 | Description | Link |
 |--------------|------|
-| 📂 Lab Repository | [Add link here](#) |
+| 📂 Anik Sir's Drive | [link](https://drive.google.com/drive/folders/1TxcH8ByqdP77Luqybuyv5XiNWkxmNcnE) |
 | 📄 Documentation | [Add link here](#) |
 | 🎥 Demo / Presentation | [Add link here](#) |
 

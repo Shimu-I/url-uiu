@@ -69,7 +69,7 @@ Serial no.| Formal Code | Course Title |
 | Description | Link |
 |--------------|------|
 | 📂 Project Repository | [Advanced LMS (UIU ELMS Upgrade)](#) |
-| 📄 Documentation | [Proposal / SRS / Report](#) |
+| 📄 SRS document template link | [Report](https://docs.google.com/document/d/1JQKyEuSwEsnith7_PuQWOAQT7CcyAwDF_7y7lwKH5xo/edit?tab=t.0#heading=h.ib5jdptcmd6) |
 | 🎥 Presentation | [Canva Presentation Link](#) |
 | 📸 Demo Video | [Add link here](#) |
 

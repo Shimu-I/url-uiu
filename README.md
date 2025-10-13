@@ -47,9 +47,10 @@ Serial no.| Formal Code | Course Title |
 
 | Description | Link |
 |--------------|------|
-| 📂 Drive Link | [Add link here](#) |
-| 🎥 YouTube Link | [Add link here](#) |
-| 📄 Question Bank | [Add link here](#) |
+| 📂 Drive | [link](https://drive.google.com/drive/folders/1ZnrroG1Cy8F8SHOBicFB6c1Oc0JZy6KN) |
+| 📂 Drive FINAL recording of class (4) | [link](https://drive.google.com/drive/folders/10z4ukUHMcTPKKKeBBrBkRgFlqgCoNLgu) |
+| 🎥 YouTube (by Mohammad Imam Hossain) | [link](https://youtube.com/playlist?list=PLLcmBPjTlvV2EIaHOTsuny-SgrqVW4rq6&si=V0opVz0HmLC2YvVb) |
+| 🎥 YouTube (by Nabila Sabrin Sworna) | [link](https://youtube.com/playlist?list=PL3_ATDyQLqPiZrS0emDuD0NqFusfnV5bf&si=92EUEQ_XZva3z4uQ) |
 
 ---
 

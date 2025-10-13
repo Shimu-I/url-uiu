@@ -55,11 +55,15 @@ Serial no.| Formal Code | Course Title |
 | 📄 Questions Drive | [link](https://drive.google.com/drive/folders/1NPJmWq4dEhb902g2yfKq4Knc7Az_ncCB?usp=sharing) |
 | 📄 Question  | [link](Questions/TOC%20Final/) |
 
-NOTE: Video Number serial
-(MID)   1 to 13 for Sorna madam
-        1 to 12 for Imam sir
-(FINAL) 14 to 24 for Sorna madam
-        13 to 24 for Imam sir
+> **NOTE:**
+
+| Exam Type | Video Number Serial |
+|------------|---------------------|
+| **(MID)**  | 1 to 13 for Sorna Madam |
+|            | 1 to 12 for Imam Sir |
+| **(FINAL)**| 14 to 24 for Sorna Madam |
+|            | 13 to 24 for Imam Sir |
+
 ---
 
 ## 2 System Analysis and Design (CSE 3411) -- sad theory

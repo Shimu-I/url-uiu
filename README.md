@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Shimu-I/url-uiu)
+![GitHub last commit](https://img.shields.io/github/last-commit/shimu-i/url-uiu)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shimu-i/url-uiu)
+
 # UIU Course Resources
 
 A curated list of helpful links for United International University (UIU) courses.

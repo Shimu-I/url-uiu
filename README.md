@@ -43,11 +43,11 @@ Serial no.| Formal Code | Course Title |
 
 ---
 
-## 1 Theory of Computation (CSE 2233) -- toc
+## 1 Theory of Computation (CSE 2233) -- toc theory
 
 | Description | Link |
 |--------------|------|
-| 📂 Drive (Previous Trimester's Online Class Recordings) | [link](https://drive.google.com/drive/folders/12LnMLMGQwdLNf6nXaBiNJvVz1usm0JWx)
+| 📂 Drive (Previous Trimester's Online Class Recordings by Nabila Sabrin Sworna) | [link](https://drive.google.com/drive/folders/12LnMLMGQwdLNf6nXaBiNJvVz1usm0JWx)
 | 📂 Drive by a student | [link](https://drive.google.com/drive/folders/1ZnrroG1Cy8F8SHOBicFB6c1Oc0JZy6KN) |
 | 📂 Drive FINAL recording of class (4) | [link](https://drive.google.com/drive/folders/10z4ukUHMcTPKKKeBBrBkRgFlqgCoNLgu) |
 | 🎥 YouTube (by Mohammad Imam Hossain) | [link](https://youtube.com/playlist?list=PLLcmBPjTlvV2EIaHOTsuny-SgrqVW4rq6&si=V0opVz0HmLC2YvVb) |

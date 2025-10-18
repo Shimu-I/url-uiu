@@ -118,8 +118,12 @@ Serial no.| Formal Code | Course Title |
 | Description | Link |   |   |
 |--------------|------|--|---|
 | 📂 Anik Sir's Drive | [link](https://drive.google.com/drive/folders/106Vjh9w2wcJ8Wdo75fhfUzjrVGGJ5R2C) | [MID](https://drive.google.com/drive/folders/1zbM_MP0HIBKn7K6XwKux1kwbOnP9mgZy) | [FINAL](https://drive.google.com/drive/folders/1iDsSdWuriNC6ZLBv0OlZ1YUEyeG_MaGg)
-| 🎥 YouTube Link | [Add link here](#) |
+| 📂 Rakib Sir's Drive | [link](https://drive.google.com/drive/folders/1R0AGBa-hJQsrBvpKDqI7ZWAyyjPpd-Xh) |
+| 🎥 YouTube (by Farhan Hossan) | [link](https://youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU&si=cLotGFqvUlFHk5al) |
 | 📄 Question Bank | [Add link here](#) |
+
+
+
 
 ---
 

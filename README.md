@@ -94,11 +94,10 @@ Serial no.| Formal Code | Course Title |
 
 ## 4 Microprocessors and Microcontrollers (CSE 4325) -- micro theory
 
-| Description | Link |
-|--------------|------|
+| Description | Link | MID | FINAL
+|--------------|------|----|------|
 | 📂 Rakin Sir's Drive Link — Online Counselling Session (MID & Final Topics) | [link](https://drive.google.com/drive/folders/1_sRoGai9pcWpYuriLnCrSK6s76Bey3uL) |
-| 🎥 YouTube Link | [Add link here](#) |
-| 📄 Question Bank | [Add link here](#) |
+| 📄 HashNode (by Md Noman Hossain) |  | [link](https://nomansuiu.hashnode.dev/microprocessor-and-microcontroller-mid) | [link](https://nomansuiu.hashnode.dev/microprocessor-and-microcontroller-final) 
 
 ---
 

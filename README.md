@@ -44,6 +44,11 @@ Serial no.| Formal Code | Course Title |
 05        | CSE 4326 | [Microprocessors and Microcontrollers Laboratory](#microprocessors-and-microcontrollers-laboratory) |
 06        | CSE 4509 | [Operating Systems](#operating-systems) |
 07        | CSE 4510 | [Operating Systems Laboratory](#operating-systems-laboratory) |
+08        | CSE 4165 | [Web Programming](#web-programming) |
+09        | CSE 4889 | [Machine Learning](#machine-learning) |
+10        | CSE 4451 | [Human Computer Interaction](#human-computer-interaction) |
+11        | CSE 4000A | [Final Year Design Project - I](#final-year-design-project---i) |
+12        | CSE 4891  | [Data Mining](#data-mining) |
 
 ---
 
@@ -76,8 +81,6 @@ Serial no.| Formal Code | Course Title |
 |--------------|------|
 | 📂 Drive Link (by Sidratul Muntaha) | [link](https://drive.google.com/drive/folders/1BD7SiRFII7ZMten0BEaYW7MyDAQvZVZp) |
 | 🎥 YouTube Link (full playlist by Farhanaz Farheen) | [link](https://youtube.com/playlist?list=PL3_ATDyQLqPi8dfAhsyq2KQxcPECqHeRg&si=n_6fDj29bnHhBRud) |
-| 📄 Question Bank | [Add link here](#) |
-| 💡 Project Reference | [Advanced LMS Project](#) |
 
 ---
 
@@ -87,8 +90,6 @@ Serial no.| Formal Code | Course Title |
 |--------------|------|
 | 📂 Project Repository | [Advanced LMS (UIU ELMS Upgrade)](#) |
 | 📄 SRS document template link | [Report](https://docs.google.com/document/d/1JQKyEuSwEsnith7_PuQWOAQT7CcyAwDF_7y7lwKH5xo/edit?tab=t.0#heading=h.ib5jdptcmd6) |
-| 🎥 Presentation | [Canva Presentation Link](#) |
-| 📸 Demo Video | [Add link here](#) |
 
 ---
 
@@ -105,10 +106,8 @@ Serial no.| Formal Code | Course Title |
 
 | Description | Link |
 |--------------|------|
-| 📂 Project | [Smart Metro Gate System](#) |
-| 📄 Documentation | [Proposal / Report](#) |
-| 🎥 Presentation | [Canva Presentation Link](#) |
-| 📸 Demo Video | [Add link here](#) |
+| 📄 Documentation | [Git Hub](https://github.com/Shimu-I/smart-gate) |
+
 
 ---
 
@@ -119,10 +118,6 @@ Serial no.| Formal Code | Course Title |
 | 📂 Anik Sir's Drive | [link](https://drive.google.com/drive/folders/106Vjh9w2wcJ8Wdo75fhfUzjrVGGJ5R2C) | [MID](https://drive.google.com/drive/folders/1zbM_MP0HIBKn7K6XwKux1kwbOnP9mgZy) | [FINAL](https://drive.google.com/drive/folders/1iDsSdWuriNC6ZLBv0OlZ1YUEyeG_MaGg)
 | 📂 Rakib Sir's Drive | [link](https://drive.google.com/drive/folders/1R0AGBa-hJQsrBvpKDqI7ZWAyyjPpd-Xh) |
 | 🎥 YouTube (by Farhan Hossan) | [link](https://youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU&si=cLotGFqvUlFHk5al) |
-| 📄 Question Bank | [Add link here](#) |
-
-
-
 
 ---
 
@@ -131,6 +126,49 @@ Serial no.| Formal Code | Course Title |
 | Description | Link |
 |--------------|------|
 | 📂 Anik Sir's Drive | [link](https://drive.google.com/drive/folders/1TxcH8ByqdP77Luqybuyv5XiNWkxmNcnE) |
-| 📄 Documentation | [Add link here](#) |
-| 🎥 Demo / Presentation | [Add link here](#) |
+
+---
+
+## 8 Web Programming (CSE 4165) -- web programming
+
+| Description | Link |
+|--------------|------|
+| 📂 Class resources | [link]() 
+
+
+---
+
+## 9 Machine Learning (CSE 4889) -- ml theory
+
+| Description | Link |
+|--------------|------|
+| 📂 Class resources | [link]() 
+
+---
+
+## 10 Human Computer Interaction (CSE 4451) -- hci theory
+
+| Description | Link |
+|--------------|------|
+| 📂 Class resources | [link]() 
+
+---
+
+## 11 Final Year Design Project - I (CSE 4000A) -- fydp-i
+
+| Description | Link |
+|--------------|------|
+| 📂 Class resources | [link]() 
+
+---
+
+## 12 Data Mining (CSE 4891)
+
+| Description | Link |
+|--------------|------|
+| 📄 Hand Note MID (by Sadman Adib) | [link](https://drive.google.com/file/d/1dngbUcm1eRVygYpsWDyiuVfVqXXA88oL/view) 
+| 📄 Hand Note FINAL (by Sadman Adib) Part 1 | [link](https://drive.google.com/file/d/18EnB4S13kEmrm8PG7n63nJzXxWK5AGR1/view) 
+| 📄 Hand Note FINAL (by Sadman Adib) Part 2 | [link](https://drive.google.com/file/d/1ehSibKVTQ3c8PzRiMzNExne06xi5DqMh/view) 
+| 📄 Hand Note FINAL (by Sadman Adib) Part 3 | [link](https://drive.google.com/file/d/1Z4XR-0r80SiFS8PxjK-X4pxN7m3656Tw/view) 
+
 

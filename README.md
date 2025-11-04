@@ -142,7 +142,8 @@ Serial no.| Formal Code | Course Title |
 
 | Description | Link |
 |--------------|------|
-| 📂 Class resources | [link]() 
+| 📂 Drive (by Anik Sir)| [link](https://drive.google.com/drive/folders/1tYk6B_DTylNjB8wugwuW9JlwNmdASZZV) 
+| 📂 ML Resources from scratch | [link](https://docs.google.com/document/d/1WXRdtJFarA-K-uUJjnrUhfMRBYjhIwDZC108n6avzVI/edit?tab=t.0) 
 
 ---
 

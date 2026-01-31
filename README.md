@@ -17,6 +17,7 @@ A curated list of helpful links for United International University (UIU) course
 ## ❓ Question Bank
 - **UIU QB** – Community-maintained question bank for practice and exam prep.  
   [uiuqb.vercel.app](https://uiuqb.vercel.app/)
+  [Scholar's Squad](https://docs.google.com/spreadsheets/d/1UTliZRhDHcRKNKkKnWdNQI-XiEDrxRhWsG0dguoqSEo/edit?gid=1541110513#gid=1541110513)
 
 ## 📊 Google Spreadsheet
 - **Shared Course Data** – Collaborative spreadsheet with additional course details and references.  
@@ -143,6 +144,7 @@ Serial no.| Formal Code | Course Title |
 | Description | Link |
 |--------------|------|
 | 📂 Drive (by Anik Sir)| [link](https://drive.google.com/drive/folders/1tYk6B_DTylNjB8wugwuW9JlwNmdASZZV) 
+| 📂 Scholar's Squad  | [link](https://drive.google.com/drive/folders/1NAEygpbwVN8z0Ch3wz1i8wqYv5mMbA2x)
 | 📂 ML Resources from scratch | [link](https://docs.google.com/document/d/1WXRdtJFarA-K-uUJjnrUhfMRBYjhIwDZC108n6avzVI/edit?tab=t.0) 
 | 📂 Senior vaiya notes | [link](https://drive.google.com/drive/folders/1zFVRUAyNB2xbsRTDpeXaF_F8sA4xlpA_)
 
